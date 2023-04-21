@@ -6,6 +6,7 @@ public class Application {
 		System.out.println("dddddd");
 		System.out.println("heoyuil");
 		System.out.println("222222");
+		System.out.println("new test2");
 	}
 
 }
