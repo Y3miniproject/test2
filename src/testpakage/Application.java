@@ -4,8 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("dddddd");
-		System.out.println("hy...first");
-		System.out.println("hy...first");
+		System.out.println("내용수정");
 
 	}
 
